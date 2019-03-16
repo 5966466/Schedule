@@ -1,0 +1,6 @@
+* Seq.	Course
+*  1	data structure
+*  2	c++
+*  3	math
+*  6	philosophy
+* 12	physics

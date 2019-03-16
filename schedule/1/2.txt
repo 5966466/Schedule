@@ -1,0 +1,4 @@
+* Seq.	Course
+*  1	calculus
+*  3	English
+*  6	physics
